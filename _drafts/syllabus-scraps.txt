@@ -1,0 +1,27 @@
+
+@item{@bold{Functional
+correctness}: can you apply data structures and algorithms concepts to
+produce implementations that display correct behavior and produce
+correct results? @; }
+@item{@bold{Non-functional correctness}: can you produce programs that are
+  efficient, robust, and maintainable, and demonstrate good programming habits
+  and hygiene?
+  @;
+}
+@item{@bold{Theory}: can you understand, apply, and contextualize
+  definitions and techniques related to the theoretical aspects of data
+  structures and algorithms: computational complexity, invariants, etc.
+  @;
+}
+
+
+
+@item{@bold{Judgements}: can you make informed decisions when picking
+  data structures and algorithms and evaluating alternatives?
+  @; I will assess your ability to judiciously choose algorithms via the final project.
+}
+
+@item{@bold{Integration}: can you combine multiple data structures and
+  algorithms to decompose and solve complex problems?
+  @; I will assess this via the final project.
+}

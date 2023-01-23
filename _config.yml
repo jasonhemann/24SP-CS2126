@@ -16,18 +16,18 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : # ""
+title                    : "CS2126"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Spring 2023"
 name                     : "Jason Hemann"
-description              : # ""
+description              : # "CS 2126"
 url                      : "http://jasonhemann.github.com/"
 baseurl                  : "" # "/jhemann/test-site"
 sourceurl                : "http://github.com/jasonhemann"
-repository               : "" # "/minimal-mistakes"
+repository               : "23SP-CS2126"
 teaser                   : "/assets/images/500x300.png"
 logo                     : "" # "/assets/images/88x88.png"
-masthead_title           : " "
+masthead_title           : "Spring 2023 Data Structures & Algorithms"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
