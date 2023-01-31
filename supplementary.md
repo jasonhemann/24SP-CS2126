@@ -16,5 +16,8 @@ classes: wide
 ## Ancillary
 
 - [PageRank: A trillion dollar algorithm](https://www.youtube.com/watch?v=JGQe4kiPnrU)
+- [A* search algorithm, explained](https://www.youtube.com/watch?v=A60q6dcoCjw)
+- [The sights and sounds of sorting](https://www.youtube.com/watch?v=xoR-1KwQh2k)
+
 
 
