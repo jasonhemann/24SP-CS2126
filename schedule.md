@@ -4,12 +4,39 @@ layout: splash
 classes: wide
 ---
 
-## Coming Soon
+## Rough Schedule
 
-<!-- | Week# | Date | Day | Break? | Topic | Pre-reading | Extra Resources | HW Out | HW Due | -->
-<!-- |       |      |     |        |       |             |                 |        |        | -->
-<!-- |       |      |     |        |       |             |                 |        |        | -->
+This is an attempted schedule for the course and semester. It may be that we fall behind my plans for the course and the semester
+
+|       |         |           |        |                                             | Cormen             |                     |          |        |
+| Week# | Date    | Day       | Break? | Topic                                       | Pre-reading        | Extra Resources     | HW Out   | HW Due |
+|-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|----------|--------|
+| 0     | 1/18/23 | Wednesday |        | Intro, Background & Language                |                    |                     |          |        |
+|-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|----------|--------|
+| 1     | 1/23/23 | Monday    |        | DSSL2 Q&A, Linked lists, Arrays             |                    | Bhargava Ch. 2-pg32 |          |        |
+| 1     | 1/25/23 | Wednesday |        | ADTs, Stack and Queue                       |                    |                     | HW1      |        |
+|-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|----------|--------|
+| 2     | 1/30/23 | Monday    |        |                                             |                    |                     |          |        |
+| 2     | 2/1/23  | Wednesday |        | Asymptotic Analysis and Complexity          | Ch. 2, Ch. 3-3.2†‡ | Bhargava Ch. 1      | HW2, WS1 | HW1    |
+|-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|----------|--------|
+| 3     | 2/6/23  | Monday    |        | Asymptotic Analysis and Complexity, Sorting | Ch. 2, Ch. 3-3.2   |                     |          |        |
+| 3     | 2/8/23  | Wednesday |        |                                             |                    |                     |          | HW2    |
+|-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|----------|--------|
+|       |         |           |        |                                             |                    |                     |          |        |
+
+† Duplicate entries means you should spread your reading across the
+period where I have duplicated those entries. So for instance you
+should split these chapters between this and next week
+
+‡ Reading entries listed A-B are inclusive of end points, that is "Ch.
+3-3.2" would mean from the beginning of Ch. 3 up to and including
+§3.2. So stop at the beginning of §3.3.
+
+## Recursion refresher
+
+If you would like a refresher on writing recursive functions, and in a
+Python-like language, see Ch. 3 of "Grokking"
 
 
-<!-- <img src="https://imgs.xkcd.com/comics/x.png"> -->
+<img src="https://imgs.xkcd.com/comics/x.png">
 
