@@ -38,5 +38,5 @@ If you would like a refresher on writing recursive functions, and in a
 Python-like language, see Ch. 3 of "Grokking"
 
 
-<img src=https://imgs.xkcd.com/comics/tree.png">
+<img src="https://imgs.xkcd.com/comics/tree.png">
 
