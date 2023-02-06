@@ -16,11 +16,11 @@ This is an attempted schedule for the course and semester. It may be that we fal
 | 1     | 1/23/23 | Monday    |        | DSSL2 Q&A, Linked lists, Arrays             |                    | Bhargava Ch. 2-pg32 |        |        |
 | 1     | 1/25/23 | Wednesday |        | ADTs, Stack and Queue                       |                    |                     | HW1    |        |
 |-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|--------|--------|
-| 2     | 1/30/23 | Monday    |        |                                             |                    |                     |        |        |
+| 2     | 1/30/23 | Monday    |        | ADTs, Stack and Queue                       |                    |                     |        |        |
 | 2     | 2/1/23  | Wednesday |        | Asymptotic Analysis and Complexity          | Ch. 2, Ch. 3-3.2†‡ | Bhargava Ch. 1      | WS1    | HW1    |
 |-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|--------|--------|
-| 3     | 2/6/23  | Monday    |        | Asymptotic Analysis and Complexity, Sorting | Ch. 2, Ch. 3-3.2   |                     |        |        |
-| 3     | 2/8/23  | Wednesday |        |                                             |                    |                     | HW2    | WS1    |
+| 3     | 2/6/23  | Monday    |        | DSSL2 Classes, Queues, Contracts            |                    |                     |        |        |
+| 3     | 2/8/23  | Wednesday |        | Asymptotic Analysis and Complexity, Sorting | Ch. 2, Ch. 3-3.2   |                     | HW2    | WS1    |
 |-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|--------|--------|
 |       |         |           |        |                                             |                    |                     |        |        |
 
