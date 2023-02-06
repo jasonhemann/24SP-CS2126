@@ -4,6 +4,11 @@ layout: single
 classes: wide
 ---
 
+## Design of classes draft text
+
+- [How to Design Classes](https://felleisen.org/matthias/HtDC/htdc.pdf)
+
+
 ## Lecture topics
 
 - [Recursion refresher](https://www.youtube.com/watch?v=ngCos392W4w)
