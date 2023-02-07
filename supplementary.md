@@ -21,6 +21,20 @@ libraries](https://github.com/tov/dssl2/tree/main/lib) whose source
 you could look at for interesting examples. Download it from Github
 and play with it yourself!
 
+### DSSL2 for Java Programmers
+
+Please also find, in the [course website repository]( {{
+site.sourceurl }}{{ site.repository}}/tree/master/_code/rosetta_stone), a kind
+of "Rosetta stone" for how to read and write DSSL2 code from the
+perspective of a Java programmer.
+
+In order to run and test the Java code, assuming you have JDK1.8+
+installed and on your path, execute the following:
+
+```bash
+javac Main.java; java Main
+```
+
 ## Design of classes draft text
 
 - [How to Design Classes](https://felleisen.org/matthias/HtDC/htdc.pdf)
