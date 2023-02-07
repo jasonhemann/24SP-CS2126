@@ -44,6 +44,7 @@ javac Main.java; java Main
 
 - [Recursion refresher](https://www.youtube.com/watch?v=ngCos392W4w)
 - [Big O Notation](https://www.youtube.com/watch?v=Q_1M2JaijjQ)
+- [Calculating Asymptotic complexity for a piece of code](https://www.youtube.com/watch?v=AL7yO-I5kFU)
 - [Dynamic programming](https://www.youtube.com/watch?v=aPQY__2H3tE)
 - [Breadth-first search](https://www.youtube.com/watch?v=xlVX7dXLS64)
 - [Depth-first search](https://www.youtube.com/watch?v=PMMc4VsIacU)
@@ -55,5 +56,5 @@ javac Main.java; java Main
 - [A* search algorithm, explained](https://www.youtube.com/watch?v=A60q6dcoCjw)
 - [The sights and sounds of sorting](https://www.youtube.com/watch?v=xoR-1KwQh2k)
 - [Other traveling salesman solution](https://xkcd.com/399/)
-
+- [A short history of computational complexity](https://web.archive.org/web/20200913201653id_/http://people.cs.uchicago.edu/~fortnow/papers/history.pdf)
 
