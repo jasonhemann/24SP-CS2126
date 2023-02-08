@@ -4,7 +4,9 @@ layout: single
 classes: wide
 ---
 
-## DSSL2
+## Lecture topics
+
+### DSSL2
 
 In addition to the parts of the documentation you will find
 particularly helpful, including
@@ -35,17 +37,26 @@ installed and on your path, execute the following:
 javac Main.java; java Main
 ```
 
-## Design of classes draft text
-
-- [How to Design Classes](https://felleisen.org/matthias/HtDC/htdc.pdf)
+- [How to Design Classes](https://felleisen.org/matthias/HtDC/htdc.pdf) a draft text for designing programs w/classes.
 
 
-## Lecture topics
+### Recursion
 
 - [Recursion refresher](https://www.youtube.com/watch?v=ngCos392W4w)
+
+### Big O, Asymptotic analysis
+
+
 - [Big O Notation](https://www.youtube.com/watch?v=Q_1M2JaijjQ)
 - [Calculating Asymptotic complexity for a piece of code](https://www.youtube.com/watch?v=AL7yO-I5kFU)
+- [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
+
+### Dynamic Programming
+
 - [Dynamic programming](https://www.youtube.com/watch?v=aPQY__2H3tE)
+
+### Graph Problems
+
 - [Breadth-first search](https://www.youtube.com/watch?v=xlVX7dXLS64)
 - [Depth-first search](https://www.youtube.com/watch?v=PMMc4VsIacU)
 - [Traveling salesman problem](https://www.youtube.com/watch?v=GiDsjIBOVoA)
