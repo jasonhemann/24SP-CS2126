@@ -20,7 +20,10 @@ This is an attempted schedule for the course and semester. It may be that we fal
 | 2     | 2/1/23  | Wednesday |        | Asymptotic Analysis and Complexity          | Ch. 2, Ch. 3-3.2†‡ | Bhargava Ch. 1      | WS1    | HW1    |
 |-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|--------|--------|
 | 3     | 2/6/23  | Monday    |        | DSSL2 Classes, Queues, Contracts            |                    |                     |        |        |
-| 3     | 2/8/23  | Wednesday |        | Asymptotic Analysis and Complexity, Sorting | Ch. 2, Ch. 3-3.2   |                     | HW2    | WS1    |
+| 3     | 2/8/23  | Wednesday |        | Asymptotic Analysis and Complexity, Sorting | Ch. 2, Ch. 3-3.2   |                     |        | WS1    |
+|-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|--------|--------|
+| 4     | 2/13/23 | Monday    |        | Simple Sorting Routines                     |                    |                     |        |        |
+| 4     | 2/15/23 | Wednesday |        | Quicksort                                   | Ch. 7              | Bhargava, Quicksort | HW2    |        |
 |-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|--------|--------|
 |       |         |           |        |                                             |                    |                     |        |        |
 

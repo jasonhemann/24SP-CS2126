@@ -50,6 +50,7 @@ javac Main.java; java Main
 - [Big O Notation](https://www.youtube.com/watch?v=Q_1M2JaijjQ)
 - [Calculating Asymptotic complexity for a piece of code](https://www.youtube.com/watch?v=AL7yO-I5kFU)
 - [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
+- [Alternative way to think about it, post](https://old.reddit.com/r/programming/comments/p9wt7o/video_big_o_notation_is_simpler_than_you_might/ha3s58p/)
 
 ### Dynamic Programming
 
