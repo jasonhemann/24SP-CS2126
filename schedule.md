@@ -25,6 +25,9 @@ This is an attempted schedule for the course and semester. It may be that we fal
 | 4     | 2/13/23 | Monday    |        | Simple Sorting Routines                     |                    |                     |        |        |
 | 4     | 2/15/23 | Wednesday |        | Quicksort                                   | Ch. 7              | Bhargava, Quicksort | HW2    |        |
 |-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|--------|--------|
+| 5     | 2/20/23 | Monday    |        | Sort Remainders: Merge, Stable, Compr       |                    | [MergeSort][Merge]  |        |        |
+| 5     | 2/22/23 | Wednesday |        |                                             |                    |                     |        | HW2    |
+|-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|--------|--------|
 |       |         |           |        |                                             |                    |                     |        |        |
 
 † Duplicate entries means you should spread your reading across the
@@ -43,3 +46,6 @@ Python-like language, see Ch. 3 of "Grokking"
 
 <img src="https://imgs.xkcd.com/comics/tree.png">
 
+
+[Quick]: https://www.youtube.com/watch?v=ywWBy6J5gz8
+[Merge]: https://www.youtube.com/watch?v=XaqR3G_NVoo
