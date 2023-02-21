@@ -29,7 +29,7 @@ This is an attempted schedule for the course and semester. It may be that we fal
 | 5     | 2/22/23 | Wednesday |        | Dictionary ADTs                             |                    |                     |        |        |
 |-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|--------|--------|
 | 6     | 2/27/23 | Monday    |        | Hash tables                                 | Ch. 11             | Bhargava Ch. 5      |        | HW2    |
-| 7     | 3/01/23 | Wednesday |        |                                             |                    |                     |        |        |
+| 6     | 3/01/23 | Wednesday |        |                                             |                    |                     |        |        |
 
 
 † Duplicate entries means you should spread your reading across the
