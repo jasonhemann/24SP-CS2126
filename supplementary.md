@@ -70,3 +70,9 @@ javac Main.java; java Main
 - [Other traveling salesman solution](https://xkcd.com/399/)
 - [A short history of computational complexity](https://web.archive.org/web/20200913201653id_/http://people.cs.uchicago.edu/~fortnow/papers/history.pdf)
 
+## Fun
+
+- [AlgoRhythmics](https://www.youtube.com/@AlgoRythmics/videos) dance troupe demonstrates sorting by European folk dances
+- [Sorting, searching, and balancing the IKEA way](https://idea-instructions.com/)
+
+

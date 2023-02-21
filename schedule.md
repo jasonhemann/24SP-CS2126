@@ -23,12 +23,14 @@ This is an attempted schedule for the course and semester. It may be that we fal
 | 3     | 2/8/23  | Wednesday |        | Asymptotic Analysis and Complexity, Sorting | Ch. 2, Ch. 3-3.2   |                     |        | WS1    |
 |-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|--------|--------|
 | 4     | 2/13/23 | Monday    |        | Simple Sorting Routines                     |                    |                     |        |        |
-| 4     | 2/15/23 | Wednesday |        | Quicksort                                   | Ch. 7              | Bhargava, Quicksort | HW2    |        |
+| 4     | 2/15/23 | Wednesday |        | Quicksort                                   | Ch. 7              | Bhargava Ch. 4      | HW2    |        |
 |-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|--------|--------|
 | 5     | 2/20/23 | Monday    |        | Sort Remainders: Merge, Stable, Compr       |                    | [MergeSort][Merge]  |        |        |
-| 5     | 2/22/23 | Wednesday |        |                                             |                    |                     |        | HW2    |
+| 5     | 2/22/23 | Wednesday |        | Dictionary ADTs                             |                    |                     |        |        |
 |-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|--------|--------|
-|       |         |           |        |                                             |                    |                     |        |        |
+| 6     | 2/27/23 | Monday    |        | Hash tables                                 | Ch. 11             | Bhargava Ch. 5      |        | HW2    |
+| 7     | 3/01/23 | Wednesday |        |                                             |                    |                     |        |        |
+
 
 † Duplicate entries means you should spread your reading across the
 period where I have duplicated those entries. So for instance you
@@ -41,7 +43,7 @@ should split these chapters between this and next week
 ## Recursion refresher
 
 If you would like a refresher on writing recursive functions, and in a
-Python-like language, see Ch. 3 of "Grokking"
+Python-like language, see Ch. 3 of the Bhargava "Grokking" text.
 
 
 <img src="https://imgs.xkcd.com/comics/tree.png">
