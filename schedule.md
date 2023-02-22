@@ -25,7 +25,7 @@ This is an attempted schedule for the course and semester. It may be that we fal
 | 4     | 2/13/23 | Monday    |        | Simple Sorting Routines                     |                    |                     |        |        |
 | 4     | 2/15/23 | Wednesday |        | Quicksort                                   | Ch. 7              | Bhargava Ch. 4      | HW2    |        |
 |-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|--------|--------|
-| 5     | 2/20/23 | Monday    |        | Sort Remainders: Merge, Stable, Compr       |                    | [MergeSort][Merge]  |        |        |
+| 5     | 2/20/23 | Monday    |        | Sort Remainders: Merge, Stable, Compr       | Ch. 2, redux       | [MergeSort][Merge]  |        |        |
 | 5     | 2/22/23 | Wednesday |        | Dictionary ADTs                             |                    |                     |        |        |
 |-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|--------|--------|
 | 6     | 2/27/23 | Monday    |        | Hash tables                                 | Ch. 11             | Bhargava Ch. 5      |        | HW2    |
@@ -51,3 +51,4 @@ Python-like language, see Ch. 3 of the Bhargava "Grokking" text.
 
 [Quick]: https://www.youtube.com/watch?v=ywWBy6J5gz8
 [Merge]: https://www.youtube.com/watch?v=XaqR3G_NVoo
+[]
