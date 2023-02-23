@@ -54,4 +54,4 @@ Python-like language, see Ch. 3 of the Bhargava "Grokking" text.
 
 [Quick]: https://www.youtube.com/watch?v=ywWBy6J5gz8
 [Merge]: https://www.youtube.com/watch?v=XaqR3G_NVoo
-[]
+
