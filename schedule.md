@@ -26,10 +26,13 @@ This is an attempted schedule for the course and semester. It may be that we fal
 | 4     | 2/15/23 | Wednesday |        | Quicksort                                   | Ch. 7              | Bhargava Ch. 4      | HW2    |        |
 |-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|--------|--------|
 | 5     | 2/20/23 | Monday    |        | Sort Remainders: Merge, Stable, Compr       | Ch. 2, redux       | [MergeSort][Merge]  |        |        |
-| 5     | 2/22/23 | Wednesday |        | Dictionary ADTs                             |                    |                     |        |        |
+| 5     | 2/22/23 | Wednesday |        | Dictionary ADTs, 1/2 Hash Tables            |                    |                     |        | HW2    |
 |-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|--------|--------|
-| 6     | 2/27/23 | Monday    |        | Hash tables                                 | Ch. 11             | Bhargava Ch. 5      |        | HW2    |
-| 6     | 3/01/23 | Wednesday |        |                                             |                    |                     |        |        |
+| 6     | 2/27/23 | Monday    |        | Hash tables 2/2                             | Ch. 11             | Bhargava Ch. 5      | WS1    |        |
+| 6     | 3/01/23 | Wednesday |        | Graphs 1                                    | Appendix B.4       | Bhargava Ch. 6-pg99 |        |        |
+|-------|---------|-----------|--------|---------------------------------------------|--------------------|---------------------|--------|--------|
+| 7     | 2/27/23 | Monday    |        | Hash tables                                 | Ch. 11             | Bhargava Ch. 5      |        | WS1    |
+| 7     | 3/01/23 | Wednesday |        |                                             |                    |                     |        |        |
 
 
 † Duplicate entries means you should spread your reading across the
