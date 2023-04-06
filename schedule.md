@@ -50,13 +50,13 @@ This is an attempted schedule for the course and semester. It may be that we fal
 | 11    | 4/12/23 | Wednesday |          | Data Design II                              | Ch 23                 |                                           |        | HW4    |
 |-------|---------|-----------|----------|---------------------------------------------|-----------------------|-------------------------------------------|--------|--------|
 | 12    | 4/17/23 | Monday    |          | Minimum Spanning Trees                      | Ch 23                 |                                           |        |        |
-| 12    | 4/19/23 | Wednesday |          | Binary Search Trees                         | Ch 12                 |                                           |        |        |
+| 12    | 4/19/23 | Wednesday |          |                                             |                       |                                           | HW5    |        |
 |-------|---------|-----------|----------|---------------------------------------------|-----------------------|-------------------------------------------|--------|--------|
-| 13    | 4/24/23 | Monday    |          | Amortized Analysis                          | Ch 17                 |                                           |        |        |
-| 13    | 4/26/23 | Wednesday |          | Persistent                                  |                       |                                           |        |        |
+| 13    | 4/24/23 | Monday    |          | Binary Search Trees                         | Ch 12                 |                                           |        |        |
+| 13    | 4/26/23 | Wednesday |          | Amortized Analysis                          | Ch 17                 |                                           |        | HW5    |
 |-------|---------|-----------|----------|---------------------------------------------|-----------------------|-------------------------------------------|--------|--------|
-| 14    | 5/1/23  | Monday    |          | Extended Example Conchon-Filiatre           |                       | [A Persistent Union-Find][Persistent U-F] |        |        |
-| 14    | 5/3/23  | Wednesday |          | Relational                                  |                       |                                           |        |        |
+| 14    | 5/1/23  | Monday    |          | Persistent                                  |                       |                                           |        |        |
+| 14    | 5/3/23  | Wednesday |          | Extended Example Conchon-Filiatre           |                       | [A Persistent Union-Find][Persistent U-F] |        |        |
 |-------|---------|-----------|----------|---------------------------------------------|-----------------------|-------------------------------------------|--------|--------|
 | 15    | 5/8/23  | Monday    |          | Greedy & DP                                 | Ch 15 & Ch 16         |                                           |        |        |
 |       | 5/10/23 | Wednesday |          |                                             |                       |                                           |        |        |
