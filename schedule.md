@@ -55,7 +55,7 @@ This is an attempted schedule for the course and semester. It may be that we fal
 | 13    | 4/24/23 | Monday    |          | Binary Search Trees                           | Ch 12                 |                                         | HW5     |         |
 | 13    | 4/26/23 | Wednesday |          | Amortized Analysis                            | Ch 17                 |                                         |         |         |
 |-------|---------|-----------|----------|-----------------------------------------------|-----------------------|-----------------------------------------|---------|---------|
-| 14    | 5/1/23  | Monday    |          | Persistent, Extended Example Conchon-Filiatre |                       | [Persistent Union-Find][Persistent U-F] |         | HW5     |
+| 14    | 5/1/23  | Monday    |          | Persistent, Extended Example Conchon-Filiatre |                       | [Persistent_Union-Find][Persistent U-F] |         | HW5     |
 | 14    | 5/3/23  | Wednesday |          | Exam Review                                   |                       |                                         |         |         |
 |-------|---------|-----------|----------|-----------------------------------------------|-----------------------|-----------------------------------------|---------|---------|
 | 15    | 5/8/23  | Monday    |          | EXAM 2                                        |                       |                                         |         |         |
@@ -84,4 +84,4 @@ Python-like language, see Ch. 3 of the Bhargava "Grokking" text.
 
 [Quick]: https://www.youtube.com/watch?v=ywWBy6J5gz8
 [Merge]: https://www.youtube.com/watch?v=XaqR3G_NVoo
-[Persistent Union-Find]: https://www.lri.fr/~conchon/ENSPSaclay/materials/puf-wml07.pdf
+[Persistent_Union-Find]: https://www.lri.fr/~conchon/ENSPSaclay/materials/puf-wml07.pdf
