@@ -7,6 +7,7 @@ sort: due
 
 # Assignment Location
 
+You can find all your assigment descriptions [here]({{ site.sourceurl }}{{ site.repository }}/tree/master/_hw).
 
 # Assignment Guidelines
 
