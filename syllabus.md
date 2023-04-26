@@ -142,14 +142,6 @@ portion of each homework one week after the initial deadline. See
 schedule at the end for exact dates. To determine final grades, I
 will use the best of the two outcomes your submissions have achieved.
 
-Given the scale and importance of the project, I will give you *two*
-opportunities to resubmit it instead of just---one week and two weeks
-after the initial deadline---and consider the best of the three
-outcomes.
-
-Resubmissions are optional: if you're happy about your first submission, you
-can skip the second.
-
 ### Self-Evaluations
 
 Each of the five programming homeworks will be followed by a
