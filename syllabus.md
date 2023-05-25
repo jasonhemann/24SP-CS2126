@@ -236,8 +236,8 @@ a total of six possible modifiers:
 | Self evaluations | # 5/5s    | 4                  | --                       | --                       |
 |                  | # >= 3/5s | --                 | >= 3                     | <= 2                     |
 |                  | # <= 2/5s | <= 1               | <= 2                     | >= 3                     |
-| Exam #1          |           | TBA                | TBA                      | TBA                      |
-| Exam #2          |           | TBA                | TBA                      | TBA                      |
+| Exam #1          |           | >= 80              | 70 <= score < 80         | < 70                     |
+| Exam #2          |           | >= 50              | 40 <= score < 50         | < 40                     |
 | Project program  |           | Above expectations | Meets expectations       | N/A                      |
 | Project report   |           | Outstanding        | Minor errors / omissions | Major errors / omissions |
 
