@@ -6,8 +6,8 @@ layout: single
 
 # Office Hours Location and Format
 
-| Date | Time         | Location                 |
-| Tues | 9:00-10:30am | McQuaid Hall 210 / Teams |
+| Name                   | Role       | Contact Address                                                   | Office Hours                   | Office Hours Location                   |
+| {{ site.author.name }} | Instructor | [{{ site.author.emailaddr }}](mailto:{{ site.author.emailaddr }}) | {{ site.author.office_hours }} | {{ site.author.office_hours_location }} |
 
 Normally I will not check or respond to Teams messages sent outside of
 these hours. During this period you can feel free to call or message

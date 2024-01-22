@@ -404,6 +404,6 @@ site.baseurl }}/tech/) for more details.
 
 Thanks over the years for inspiration and content from at least the
 following: Dan Friedman, Shriram Krishnamurthi, Lindsey Kuper, Vincent
-St-Amour, and Marco Morazán.
+St-Amour, Jessie Tov, and Marco Morazán.
 
 ![In the syllabus]({{ site.baseurl }}/assets/images/syllabus.gif "Might just be worth checking.")
