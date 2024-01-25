@@ -177,7 +177,7 @@ To evaluate specific aspects of our *theory* learning objective, we
 will have two worksheet-style assignments.
 
 To ensure everyone has a solid theoretical foundation, these
-worksheets will be done as Blackboard quizzes with unlimited retries;
+worksheets will be done as Canvas quizzes with unlimited retries;
 I encourage you to re-do them until you fully understand.
 
 
@@ -231,15 +231,11 @@ increase your grade by a partial letter grade, leave your grade
 unchanged, or decrease your grade by a partial letter grade. There are
 a total of six possible modifiers:
 
-|                  |           | Increase           | Unchanged                | Decrease                 |
+|                  |           | **Increase**           | **Unchanged**                | **Decrease**                 |
 | Worksheets       |           | Both 100%          | Both >= 80%              | Either < 80%             |
-| Self evaluations | # 5/5s    | 4                  | --                       | --                       |
+| Self evaluations | # 5/5s    | >= 4               | --                       | --                       |
 |                  | # >= 3/5s | --                 | >= 3                     | <= 2                     |
 |                  | # <= 2/5s | <= 1               | <= 2                     | >= 3                     |
-| Exam #1          |           | >= 80              | 70 <= score < 80         | < 70                     |
-| Exam #2          |           | >= 50              | 40 <= score < 50         | < 40                     |
-| Project program  |           | Above expectations | Meets expectations       | N/A                      |
-| Project report   |           | Outstanding        | Minor errors / omissions | Major errors / omissions |
 
 Here "Above expectations" means "a higher outcome than required for
 your base grade."
@@ -248,6 +244,43 @@ Both worksheets are considered together to determine a single modifier; both
 must meet the expected level. Similarly, all five self-evaluations are
 considered together to determine the self-evaluation modifier. Each exam,
 however, has its own modifier.
+
+EDIT 01-24-2024
+
+To match the assignment I've handed out, I'll do exam scores out of 20. Depending on the score you earn
+on an exam, its modifier will range from +1 (an increase of one partial
+letter grade) to -3 (a decrease of a full letter grade), with the
+plurality of scores leading to a neutral modifier (no change).
+
+In addition to each exam providing its own modifier, if your
+performance improves significantly between the two exams, you will
+earn a positive +1 modifier. Here, "significantly" means the second
+exam is two modifier steps (or more) above the first one: e.g., going
+from a -1 to a +1, or from a -3 to a 0. That is to say, exam
+improvement only if Exam \#2 modifier is >= Exam \#1 modifier + 2.
+
+
+| See caveat above | **+1**   | **0**    | **-1**  | **-2** | **-3** |
+|------------------|----------|----------|---------|--------|--------|
+| Exam \#1         | 18-20/20 | 12-17/20 | 8-11/20 | 4-7/20 | 0-3/20 |
+| Exam \#2         | 18-20/20 | 12-17/20 | 8-11/20 | 4-7/20 | 0-3/20 |
+|------------------|----------|----------|---------|--------|--------|
+
+
+
+
+Here is how the project grading works. See caveats below.
+
+|                   | **+2**                         | **+1**                        | **0**                            | **-1**                           |
+|-------------------|--------------------------------|-------------------------------|----------------------------------|----------------------------------|
+| Project program   | 2x Above <br /> expectations\* | Above <br /> expectations\*\* | Meets <br /> expectations        |                                  |
+| Project documents |                                | Outstanding                   | Minor errors <br /> or omissions | Major errors <br /> or omissions |
+
+| Caveats | Description                                                                                                   |
+|---------|---------------------------------------------------------------------------------------------------------------|
+| \*      | Base grade requires **On the way**, earned **Got it**.                                                        |
+| \*\*    | Base grade requires **On the way**, earned **Almost there**. Or requires **Almost there**, earned **Got it**. |
+
 
 For example, suppose our hypothetical student who earned a base grade
 of **B** got everything right on both worksheets (**Increase**),
