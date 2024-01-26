@@ -231,11 +231,17 @@ increase your grade by a partial letter grade, leave your grade
 unchanged, or decrease your grade by a partial letter grade. There are
 a total of six possible modifiers:
 
-|                  |           | **Increase**           | **Unchanged**                | **Decrease**                 |
-| Worksheets       |           | Both 100%          | Both >= 80%              | Either < 80%             |
-| Self evaluations | # 5/5s    | >= 4               | --                       | --                       |
-|                  | # >= 3/5s | --                 | >= 3                     | <= 2                     |
-|                  | # <= 2/5s | <= 1               | <= 2                     | >= 3                     |
+EDIT 1/26/24. I edited this table to clarify
+
+|            | **+1**    | **+0**      | **-1**       |
+| Worksheets | Both 100% | Both >= 80% | Either < 80% |
+
+
+| **Self evaluations* | Score (out of 5)                | **+1** | **+0** | **-1** |
+|                     | Number of evals scoring 5s      | >= 4   | --     | --     |
+|                     | Number of evals scoring >= 3/5s | --     | >= 3   | <= 2   |
+|                     | Number of evals scoring <= 2/5s | <= 1   | <= 2   | >= 3   |
+
 
 Here "Above expectations" means "a higher outcome than required for
 your base grade."
