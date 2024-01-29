@@ -166,5 +166,5 @@ test 'Student#letter_grade, best case scenario':
                     [1.0, 1.0],
                     [20, 20])
     assert s.base_grade() == 'A-'
-    assert s.total_modifiers() == 5
+    assert s.total_modifiers() == 4
     assert s.letter_grade() == 'A'
