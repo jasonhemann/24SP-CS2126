@@ -240,10 +240,10 @@ EDIT 1/26/24. I edited this table to clarify
 | **Self evaluations* | Score (out of 5)                | **+1** | **+0** | **-1** |
 |                     | Number of evals scoring 5s      | >= 4   | --     | --     |
 |                     | Number of evals scoring >= 3/5s | --     | >= 3   | <= 2   |
+|                     | Number of evals scoring <= 2/5s | <= 1   | <= 2   | >= 3   |
 
-EDIT: 2/5/24
-REMOVED BOTTOM LINE OF CHART BECAUSE IT WAS SUPERFLUOUS
-<!-- |                     | Number of evals scoring <= 2/5s | <= 1   | <= 2   | >= 3   | -->
+EDIT: 2/5/24 REMOVED BOTTOM LINE OF CHART BECAUSE IT WAS SUPERFLUOUS
+EDIT: 2/6/24 NOT SUPERFLUOUS, ACTUALLY FIRST COL 3RD ROW MATTERS 
 
 
 Here "Above expectations" means "a higher outcome than required for
