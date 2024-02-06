@@ -233,8 +233,8 @@ a total of six possible modifiers:
 
 EDIT 1/26/24. I edited this table to clarify
 
-|            | **+1**    | **+0**      | **-1**       |
-| Worksheets | Both 100% | Both >= 80% | Either < 80% |
+|            | **+1**                                    | **+0**                                  | **-1**                 |
+| Worksheets | Both worksheet1 100% and Worksheet 2 100% | Worksheet1 >= 80% and worksheet2 >= 80% | Either worksheet < 80% |
 
 
 | **Self evaluations* | Score (out of 5)                | **+1** | **+0** | **-1** |
@@ -299,6 +299,17 @@ submitted self-evaluations that earned three 5/5s and two 2/5s
 (**Increase**). This would work out to an increase of one partial
 letter grade, for a final grade of **B+**. Good job, hypothetical
 student!
+
+
+EDIT 2/5/24
+For a second example we consider another hypothetical student. This
+student received a two "Got it"s two "On the way"s and a "Not yet".
+They scored a 3 on all of their self evals. They had a project score
+of "Almost there" and a positive modifier on their project. They also
+received positive modifiers on both worksheets, and their exams were a
+13 on exam 1 and a 20 on exam 2. That's some nice work on the exam,
+but unfortunately that's still an B-.
+
 
 Going up one partial letter grade means going forward one step in this
 sequence, and going down one letter grade means going backwards one
