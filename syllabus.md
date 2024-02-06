@@ -310,8 +310,9 @@ modifiers to a base of **D** results in an **F**.
 
 EDIT: 2/5/24
 
-However, an F will remain an F. Which is to say, you cannot modifier
-your way out of a natural F.
+However, an F will remain an F even in the presence of positive
+modifiers. Which is to say, you cannot modifier your way out of a
+natural F.
 
 
 ## Late Policy
@@ -323,12 +324,12 @@ To accommodate everyday slippage and minor life hiccups, each student
 starts the class with three *late tokens*. To use it you will need to
 email me your late submission. Each of these late tokens can be
 exchanged for a two-day *no questions asked* extension to any
-(non-exam) assignment, including resubmissions. Only one token can be
+(non-exam) assignment, including re submissions. Only one token can be
 used per submission; i.e., two days is the maximum extension possible.
 Late tokens will be used automatically when you submit late; you don't
 need to reach out and ask for permission. This two-day extension will
 begin from the moment you turn something in late; that is to say, your
-extended due date will be 09:59 pm two calendar days after the
+extended due date will be 09:59 PM two calendar days after the
 original due date. I will be tracking these late tokens for the class.
 
 In a student runs out of tokens, I'll be in touch. Being occasionally
@@ -340,7 +341,7 @@ Barring extreme circumstances, we will not grant further ad-hoc
 extensions or accommodations. If you do end up in a situation that
 would warrant additional flexibility, you must contact your dean of
 students and have them contact me. They will help you coordinate
-extensions and accomodations across all your classes, which will
+extensions and accommodations across all your classes, which will
 ensure you get the support you need across the board, not just in this
 class.
 
