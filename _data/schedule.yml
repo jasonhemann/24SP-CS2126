@@ -1,0 +1,331 @@
+first_week_of_year_offset: 1 # Year starts on a Monday
+semester_start: "2024-01-15T00:00:00-04:00" # Date of Sunday before start of semester
+semester_start_week: 4 # https://www.epochconverter.com/weeks/202X
+dst_start_week: 10 # "2024-03-10T02:00:00-05:00"
+dst_end_week: 44 # "2024-11-05T02:00:00-04:00"
+weeks:
+  - week_offset: 0
+    homework: []
+    sessions:
+      - day: W
+        title: "Intro, Background & Language"
+        topics:
+          - desc: "Intro, Background & Language"
+        pre_readings: []
+        videos: []
+        extra_resources: []
+  - week_offset: 1
+    homework:
+      - title: "HW1"
+        out: W
+    sessions:
+      - day: M
+        title: "DSSL2 Q&A, Linked lists, Arrays"
+        topics:
+          - desc: "DSSL2 Q&A, Linked lists, Arrays"
+        pre_readings: []
+        videos: []
+        extra_resources:
+          - title: "Bhargava Ch. 2-pg32"
+      - day: W
+        title: "ADTs, Stack and Queue"
+        topics:
+          - desc: "ADTs, Stack and Queue"
+        pre_readings: []
+        videos: []
+        extra_resources: []
+  - week_offset: 2
+    homework:
+      - title: "WS1"
+        out: W
+    sessions:
+      - day: M
+        title: "ADTs, Stack and Queue"
+        topics:
+          - desc: "ADTs, Stack and Queue"
+        pre_readings: []
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Asymptotic Analysis and Complexity"
+        topics:
+          - desc: "Asymptotic Analysis and Complexity"
+        pre_readings:
+          - title: "Cormen Ch. 2, Ch. 3-3.2†‡"
+        videos: []
+        extra_resources:
+          - title: "Bhargava Ch. 1"
+            link: ""
+  - week_offset: 3
+    homework: []
+    sessions:
+      - day: M
+        title: "DSSL2 Classes, Queues, Contracts"
+        topics:
+          - desc: "DSSL2 Classes, Queues, Contracts"
+        pre_readings: []
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Asymptotic Analysis and Complexity, Sorting"
+        topics:
+          - desc: "Asymptotic Analysis and Complexity, Sorting"
+        pre_readings:
+          - title: "Cormen Ch. 2, Ch. 3-3.2"
+        videos: []
+        extra_resources: []
+  - week_offset: 4
+    homework:
+      - title: "HW2"
+        out: W
+    sessions:
+      - day: M
+        title: "Simple Sorting Routines"
+        topics:
+          - desc: "Simple Sorting Routines"
+        pre_readings: []
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Quicksort"
+        topics:
+          - desc: "Quicksort"
+        pre_readings:
+          - title: "Cormen Ch. 7"
+        videos: []
+        extra_resources:
+          - title: "Bhargava Ch. 4"
+            link: ""
+  - week_offset: 5
+    homework: []
+    sessions:
+      - day: M
+        title: "Sort Remainders: Merge, Stable, Compr"
+        topics:
+          - desc: "Sort Remainders: Merge, Stable, Compr"
+        pre_readings:
+          - title: "Cormen Ch. 2, redux"
+        videos: []
+        extra_resources:
+          - title: "QuickSort Dance"
+          - link: "https://www.youtube.com/watch?v=ywWBy6J5gz8"
+          - title: "MergeSort Dance"
+          - link: "https://www.youtube.com/watch?v=XaqR3G_NVoo"
+      - day: W
+        title: "Dictionary ADTs, 1/2 Hash Tables"
+        topics:
+          - desc: "Dictionary ADTs, 1/2 Hash Tables"
+        pre_readings: []
+        videos: []
+        extra_resources: []
+  - week_offset: 6
+    homework:
+      - title: "WS2"
+        out: W
+    sessions:
+      - day: M
+        title: "Hash tables 2/2"
+        topics:
+          - desc: "Hash tables 2/2"
+        pre_readings:
+          - title: "Cormen Ch. 11"
+        videos: []
+        extra_resources:
+          - title: "Bhargava Ch. 5"
+            link: ""
+      - day: W
+        title: "Graphs"
+        topics:
+          - desc: "Graphs"
+        pre_readings:
+          - title: "Appx. B.4, Ch 20-20.1"
+        videos: []
+        extra_resources:
+          - title: "Bhargava Ch. 6-pg99"
+            link: ""
+  - week_offset: 7
+    homework: []
+    sessions:
+      - day: M
+        title: "Spring Break"
+        pre_readings: []
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Spring Break"
+  - week_offset: 8
+    homework:
+      - title: "HW3"
+        out: W
+    sessions:
+      - day: M
+        title: "Midterm Review"
+        topics:
+          - desc: "Midterm Review"
+        pre_readings: []
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Graph Search"
+        topics:
+          - desc: "Graph Search"
+        pre_readings:
+          - title: "Cormen Ch 20.2-20.4"
+        videos: []
+        extra_resources:
+          - title: "Bhargava Ch. 6,pg99-114 Ch. 7"
+  - week_offset: 9
+    homework: []
+    sessions:
+      - day: M
+        title: "Midterm Exam"
+        topics:
+          - desc: "Midterm Exam"
+        pre_readings: []
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Graph Search Pt. 2"
+        topics:
+          - desc: "Graph Search Pt. 2"
+        pre_readings:
+          - title: "Cormen Ch 20.2-20.4"
+        videos: []
+        extra_resources:
+          - title: "Bhargava Ch. 6,pg99-114"
+  - week_offset: 10
+    homework:
+      - title: "HW4"
+        out: M
+    sessions:
+      - day: M
+        title: "Post Mortem"
+        topics:
+          - desc: "Post Mortem"
+        pre_readings: []
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Heapsort"
+        topics:
+          - desc: "Heapsort"
+        pre_readings:
+          - title: "Ch. 6"
+        videos: []
+        extra_resources: []
+  - week_offset: 11
+    homework: []
+    sessions:
+      - day: M
+        title: "NO CLASS"
+        topics:
+          - desc: "NO CLASS"
+        pre_readings: []
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Data Design I"
+        topics:
+          - desc: "Data Design I"
+        pre_readings:
+          - title: "Ch. 23"
+        videos: []
+        extra_resources: []
+  - week_offset: 12
+    homework:
+      - title: "Project"
+        out: M
+    sessions:
+      - day: M
+        title: "Minimum Spanning Trees"
+        topics:
+          - desc: "Minimum Spanning Trees"
+        pre_readings:
+          - title: "Ch. 23"
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Special Guest"
+        topics:
+          - desc: "Special Guest"
+        pre_readings: []
+        videos: []
+        extra_resources: []
+  - week_offset: 13
+    homework:
+      - title: "HW5"
+        out: M
+    sessions:
+      - day: M
+        title: "Binary Search Trees"
+        topics:
+          - desc: "Binary Search Trees"
+        pre_readings:
+          - title: "Ch. 12"
+        videos: []
+        extra_resources: []
+      - day: W
+        title: "Amortized Analysis"
+        topics:
+          - desc: "Amortized Analysis"
+        pre_readings:
+          - title: "Ch. 17"
+        videos: []
+        extra_resources: []
+  - week_offset: 14
+    homework: []
+    sessions:
+      - day: M
+        title: "Persistent, Extended Example Conchon-Filiatre"
+        topics:
+          - desc: "Persistent, Extended Example Conchon-Filiatre"
+        pre_readings: []
+        videos: []
+        extra_resources:
+          - title: "Persistent_Union-Find"
+            link: "[Persistent_Union-Find][Persistent U-F]"
+      - day: W
+        title: "Exam Review"
+        topics:
+          - desc: "Exam Review"
+        pre_readings: []
+        videos: []
+        extra_resources: []
+  - week_offset: 15
+    homework:
+      - title: "OPTIONAL Project draft"
+        out: M
+    sessions:
+      - day: M
+        title: "EXAM 2"
+        topics:
+          - desc: "EXAM 2"
+        pre_readings: []
+        videos: []
+        extra_resources: []
+      - day: W
+        title: ""
+        topics:
+          - desc: ""
+        pre_readings: []
+        videos: []
+        extra_resources: []
+  - week_offset: 16
+    homework:
+      - title: "Project"
+        out: M
+    sessions:
+      - day: M
+        title: ""
+        topics:
+          - desc: ""
+        pre_readings: []
+        videos: []
+        extra_resources: []
+      - day: W
+        title: ""
+        topics:
+          - desc: ""
+        pre_readings: []
+        videos: []
+        extra_resources: []
