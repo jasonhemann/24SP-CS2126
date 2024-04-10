@@ -237,18 +237,18 @@ weeks:
         out: M
     sessions:
       - day: M
+        title: "Eclipse!"
+        topics:
+          - desc: "Eclipse!"
+        pre_readings: []
+        videos: []
+        extra_resources: []
+      - day: W
         title: "Minimum Spanning Trees"
         topics:
           - desc: "Minimum Spanning Trees"
         pre_readings:
           - title: "Ch. 23"
-        videos: []
-        extra_resources: []
-      - day: W
-        title: "Special Guest"
-        topics:
-          - desc: "Special Guest"
-        pre_readings: []
         videos: []
         extra_resources: []
   - week_offset: 13
