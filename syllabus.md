@@ -150,7 +150,7 @@ Self-evaluations will consist of a few questions about the code you
 turned in. Specifically, the code you turned in for the *first*
 submission, *not* the resubmission, and *not* work in
 progress towards the resubmission. You can download your original
-submission from Blackboard if you overwrote/misplaced it.
+submission from Canvas if you overwrote/misplaced it.
 
 The purpose of these self-evaluations is to evaluate your submissions
 on *non-functional correctness*: desirable aspects of programs that go
