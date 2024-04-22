@@ -194,9 +194,7 @@ weeks:
         extra_resources:
           - title: "Bhargava Ch. 6,pg99-114"
   - week_offset: 10
-    homework:
-      - title: "HW4"
-        out: M
+    homework: []
     sessions:
       - day: M
         title: "Post Mortem"
@@ -232,9 +230,7 @@ weeks:
         videos: []
         extra_resources: []
   - week_offset: 12
-    homework:
-      - title: "Project"
-        out: M
+    homework: []
     sessions:
       - day: M
         title: "Eclipse!"
@@ -252,9 +248,7 @@ weeks:
         videos: []
         extra_resources: []
   - week_offset: 13
-    homework:
-      - title: "HW5"
-        out: M
+    homework: []
     sessions:
       - day: M
         title: "Binary Search Trees"
@@ -273,9 +267,20 @@ weeks:
         videos: []
         extra_resources: []
   - week_offset: 14
-    homework: []
+    homework:
+      - title: "HW4"
+        out: M
+      - title: "Project"
+        out: M
     sessions:
       - day: M
+        title: "Probabalistic Data Structures"
+        topics:
+          - desc: "Probabalistic data structures"
+        pre_readings: []
+        videos: []
+        extra_resources: []
+      - day: W
         title: "Persistent, Extended Example Conchon-Filiatre"
         topics:
           - desc: "Persistent, Extended Example Conchon-Filiatre"
@@ -284,6 +289,16 @@ weeks:
         extra_resources:
           - title: "Persistent_Union-Find"
             link: "[Persistent_Union-Find][Persistent U-F]"
+  - week_offset: 15
+    homework: []
+    sessions:
+      - day: M
+        title: "Free Day, Project"
+        topics:
+          - desc: "None, work on your projects"
+        pre_readings: []
+        videos: []
+        extra_resources: []
       - day: W
         title: "Exam Review"
         topics:
@@ -291,41 +306,13 @@ weeks:
         pre_readings: []
         videos: []
         extra_resources: []
-  - week_offset: 15
-    homework:
-      - title: "OPTIONAL Project draft"
-        out: M
+  - week_offset: 16
+    homework: []
     sessions:
       - day: M
         title: "EXAM 2"
         topics:
           - desc: "EXAM 2"
-        pre_readings: []
-        videos: []
-        extra_resources: []
-      - day: W
-        title: ""
-        topics:
-          - desc: ""
-        pre_readings: []
-        videos: []
-        extra_resources: []
-  - week_offset: 16
-    homework:
-      - title: "Project"
-        out: M
-    sessions:
-      - day: M
-        title: ""
-        topics:
-          - desc: ""
-        pre_readings: []
-        videos: []
-        extra_resources: []
-      - day: W
-        title: ""
-        topics:
-          - desc: ""
         pre_readings: []
         videos: []
         extra_resources: []
