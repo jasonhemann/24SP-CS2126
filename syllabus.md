@@ -70,12 +70,15 @@ may be able to adjust them.
 
 ### Textbooks
 
+ - Cormen et al. "Introduction to Algorithms, Fourth Edition". MIT Press (2022)
+ - Aditya Bhargava. "Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People". Manning Publications (2016).
+
 For the most part lectures are intended to be standalone, with the
 textbook as a supplement for students who want to reinforce their
 learning or go deeper into a topic. Some topics, however, will not be
 covered directly in lecture; you will therefore need to read the
 relevant textbook chapter to be able to understand what follows in
-class. The Cormen text is @emph{very} comprehensive, but not always
+class. The Cormen text is *comprehensive*, but not always
 easy to approach. Its emphasis is also more on the theoretical side of
 things than this class's. Nonetheless, it is a useful book to have on
 hand for computer scientists, and will supplement our in-class
@@ -94,7 +97,7 @@ in understanding assignments.
 
 ## Assessment
 
-This class uses a form of **Specifications Grading** (Nilson 2015). In
+This class uses a form of **Specifications Grading** ([Nilson 2015](https://www.amazon.com/Specifications-Grading-Restoring-Motivating-Students/dp/1620362422)). In
 particular, it features mainly qualitative assessment, and does not
 rely on points, percentages, and weighted averages to determine final
 grades.
