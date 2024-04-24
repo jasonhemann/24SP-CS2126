@@ -96,6 +96,8 @@ weeks:
         extra_resources:
           - title: "Bhargava Ch. 4"
             link: ""
+          - title: "Dancing Quicksort"
+            link: "https://www.youtube.com/watch?v=ywWBy6J5gz8"
   - week_offset: 5
     homework: []
     sessions:
@@ -107,9 +109,7 @@ weeks:
           - title: "Cormen Ch. 2, redux"
         videos: []
         extra_resources:
-          - title: "QuickSort Dance"
-          - link: "https://www.youtube.com/watch?v=ywWBy6J5gz8"
-          - title: "MergeSort Dance"
+          - title: "Dancing MergeSort"
           - link: "https://www.youtube.com/watch?v=XaqR3G_NVoo"
       - day: W
         title: "Dictionary ADTs, 1/2 Hash Tables"
@@ -288,7 +288,7 @@ weeks:
         videos: []
         extra_resources:
           - title: "Persistent_Union-Find"
-            link: "[Persistent_Union-Find][Persistent U-F]"
+            link: "https://dl.acm.org/doi/10.1145/1292535.1292541"
   - week_offset: 15
     homework: []
     sessions:
