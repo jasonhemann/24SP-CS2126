@@ -245,8 +245,10 @@ EDIT 1/26/24. I edited this table to clarify
 |                     | Number of evals scoring >= 3/5s | --     | >= 3   | <= 2   |
 |                     | Number of evals scoring <= 2/5s | <= 1   | <= 2   | >= 3   |
 
-EDIT: 2/5/24 REMOVED BOTTOM LINE OF CHART BECAUSE IT WAS SUPERFLUOUS
-EDIT: 2/6/24 NOT SUPERFLUOUS, ACTUALLY FIRST COL 3RD ROW MATTERS 
+
+If You have at least 4 5s; then you get a 1 pt bonus
+Otherwise. if you have at least 3 on which you scored a 3 or higher and you don't have any that are 2 or below, then you get a +0 modifier (so no damage)
+Otherwise, you must have two or fewer on which you scored a 3 or higher. In this case, you get a -1.
 
 
 Here "Above expectations" means "a higher outcome than required for

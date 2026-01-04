@@ -9,12 +9,9 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-# gem "github-pages", group: :jekyll_plugins
+gem "github-pages", "~> 232", group: :jekyll_plugins
 
 # To upgrade, run `bundle update`.
-
-gem "jekyll"
-gem "minimal-mistakes-jekyll"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
@@ -29,5 +26,4 @@ end
 
 
 gem "webrick", "~> 1.7"
-gem "jekyll-sass-converter", "~> 2.2"
-gem "jekyll-redirect-from", "~> 0.16.0"
+gem 'openssl', '~> 3.2.2' # https://www.rubyonmac.dev/certificate-verify-failed-unable-to-get-certificate-crl-openssl-ssl-sslerror#:~:text=Luckily%2C%20Kazuki%20Yamaguchi%2C%20one%20of,gem
